@@ -50,3 +50,16 @@
 ### output
 
 ![Screenshot (236)](https://github.com/zalfadz05/Lab1Web/assets/115516617/caea3b99-18e0-4d3c-b013-bed29a1e724a)
+
+### Menambahkan hyperlink
+
+### input
+
+![Screenshot (239)](https://github.com/zalfadz05/Lab1Web/assets/115516617/75ed06fc-ce54-4ef2-b3dd-15691bc51ce2)
+
+### output
+
+![Screenshot (238)](https://github.com/zalfadz05/Lab1Web/assets/115516617/29998cb4-f97e-4a3b-a892-7648eacb4d80)
+
+
+
