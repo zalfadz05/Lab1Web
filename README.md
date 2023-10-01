@@ -59,7 +59,8 @@
 
 ### output
 
-![Screenshot (238)](https://github.com/zalfadz05/Lab1Web/assets/115516617/29998cb4-f97e-4a3b-a892-7648eacb4d80)
+![WhatsApp Image 2023-10-01 at 22 06 06 (1)](https://github.com/zalfadz05/Lab1Web/assets/115516617/ab6ecb11-b455-4f64-8ca0-3b8cc12de3ac)
+
 
 
 
